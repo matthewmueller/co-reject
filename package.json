@@ -1,0 +1,16 @@
+{
+  "name": "co-reject",
+  "version": "0.0.1",
+  "description": "parallel reject for generators",
+  "keywords": [],
+  "author": "matthew mueller <mattmuelle@gmail.com>",
+  "repository": { "type": "git", "url": "git://github.com/matthewmueller/co-reject.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "co": "*",
+    "co-fs": "*",
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
